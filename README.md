@@ -1,4 +1,4 @@
-To run the site in development mode type:
+This app fetches information about the github account of username typed in.
 
 
 ![p4 first](https://user-images.githubusercontent.com/66570867/116791215-650ce800-aad6-11eb-9b0f-1a20eefc0e91.png)
